@@ -23,7 +23,7 @@ I performed configuration, testing, troubleshooting, and documentation personall
 | Lab Number | Lab Title | Status |
 |:---|:---|:---|
 | 4.4.7 | [Configure Secure Administrative Access](https://github.com/HamsterInItsBall/cisco-labs/tree/main/Cybersecurity%20Essentials/4.4.7.Lab%20-%20Configure-Secure-Administrative-Access) | 🚧 Planned |
-| 5.2.5 | [Configure Administrative Roles](https://github.com/HamsterInItsBall/cisco-labs/tree/main/Cybersecurity%20Essentials/5.2.5.Lab%20-%20Configure-Administrative-Roles) | ✅ Completed |
+| 5.2.5 | [Configure Administrative Roles](https://github.com/HamsterInItsBall/cisco-labs/tree/main/Cybersecurity%20Essentials/5.2.5.Lab%20-%20Configure-Administrative-Roles) | 🚧 Planned |
 | 6.2.7 | [Configure Automated Security Features](https://github.com/HamsterInItsBall/cisco-labs/tree/main/Cybersecurity%20Essentials/6.2.7.Lab%20-%20Configure-Automated-Security-Features) | 🚧 Planned |
 | 6.3.6 | [Basic Device Configuration and OSPF Authentication](https://github.com/HamsterInItsBall/cisco-labs/tree/main/Cybersecurity%20Essentials/6.3.6.Lab%20-%20Basic-Device-Configuration-and-OSPF-Authentication) | 🚧 Planned |
 | 6.7.11 | [Configure IOS Resilience Management and Reporting](https://github.com/HamsterInItsBall/cisco-labs/tree/main/Cybersecurity%20Essentials/6.7.11.Lab%20-%20Configure-Cisco-IOS-Resilience-Management-and-Reporting) | 🚧 Planned |
