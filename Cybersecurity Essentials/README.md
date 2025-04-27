@@ -22,7 +22,7 @@ I performed configuration, testing, troubleshooting, and documentation personall
 
 | Lab Number | Lab Title | Status |
 |:---|:---|:---|
-| 4.4.7 | [Configure Secure Administrative Access](/4.4.7.Lab - Configure-Secure-Administrative-Access/) | 🚧 Planned |
+| 4.4.7 | [Configure Secure Administrative Access](./4.4.7.Lab - Configure-Secure-Administrative-Access/) | 🚧 Planned |
 | 5.2.5 | [Configure Administrative Roles](./05.2.5-configure-admin-roles/) | ✅ Completed |
 | 6.2.7 | [Configure Automated Security Features](./06.2.7-configure-automated-security/) | 🚧 Planned |
 | 6.3.6 | [Basic Device Configuration and OSPF Authentication](./06.3.6-basic-device-config-ospf-auth/) | 🚧 Planned |
