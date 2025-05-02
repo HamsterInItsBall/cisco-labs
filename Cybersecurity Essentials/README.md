@@ -43,15 +43,15 @@ I performed configuration, testing, troubleshooting, and documentation personall
 
 During some sessions, teamwork and discussion with classmates helped improve troubleshooting and understanding.
 
-| Name | GitHub Profile | Contribution |
-|:----|:----------------|:-------------|
-| Vladislavs Konovalovs | [@ArdyIra](https://github.com/ArdyIra) | ... |
-| Iļja Dovgaņs | N/A | ... |
-| Irina Nikolaeva | N/A | ... |
-| Gulnar Hasanli | N/A | ... |
-| Amit Mukhija | N/A | ... |
-| Nika Jerina | N/A | ... |
-| Viktor Kozorez | N/A | ... |
+| GitHub Profile | Contribution |
+|:----------------|:-------------|
+| [@ArdyIra](https://github.com/ArdyIra) | ... |
+| N/A | ... |
+| N/A | ... |
+| N/A | ... |
+| N/A | ... |
+ | N/A | ... |
+| N/A | ... |
 
 ---
 ## 🛡 License
